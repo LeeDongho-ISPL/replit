@@ -1,1 +1,1 @@
-# replit
+# 3DGS-Analyzer
